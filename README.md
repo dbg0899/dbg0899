@@ -1,4 +1,4 @@
-##✨ A bit about me ##  
+##✨ A bit about me 
 
 👋 Hi, I’m **Daniela Bolaños Garcia**, a Biomedical Scientist and Data Scientist with expertise in **AI-driven medical imaging, computational chemistry, and biomarker discovery**. With **4 years of experience**, I specialize in **machine learning, deep learning, and statistical modeling for healthcare, pharmaceuticals, and life sciences**.  
 
